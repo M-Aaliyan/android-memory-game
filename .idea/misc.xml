@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Muham/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_face.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Muham/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_refresh.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/Muham/AndroidStudioProjects/MyMemory/app/src/main/res/drawable/ic_wrench.xml" value="0.37083333333333335" />
         <entry key="..\:/Users/Muham/AndroidStudioProjects/MyMemory/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/Muham/AndroidStudioProjects/MyMemory/app/src/main/res/layout/dialog_boards_size.xml" value="0.3546875" />
         <entry key="..\:/Users/Muham/AndroidStudioProjects/MyMemory/app/src/main/res/layout/memory_card.xml" value="0.3546875" />
+        <entry key="..\:/Users/Muham/AndroidStudioProjects/MyMemory/app/src/main/res/menu/menu_main.xml" value="0.3546875" />
       </map>
     </option>
   </component>
